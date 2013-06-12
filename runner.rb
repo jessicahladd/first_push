@@ -1,1 +1,1 @@
-print "Committed!"
+put "Committed!"
